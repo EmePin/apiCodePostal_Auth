@@ -12,7 +12,7 @@ _Cosas que necesitas para instalar el software y cómo instalarlas_
   
 
 ## Ejecutando las pruebas ⚙️
-a) Para Oauth
+**a) Para Oauth**
 
 Al entrar a mi ruta con Xampp veo lo siguiente:
 ![image](https://user-images.githubusercontent.com/57578552/202366812-ca6dd060-7839-40a8-b0e0-b5489168bdf3.png)
@@ -33,8 +33,16 @@ Si selecciono Logout me lleva de vuelta al inicio
 ![image](https://user-images.githubusercontent.com/57578552/202366799-78b003a5-92d0-473e-a45b-3f741eb95a98.png)
 
 
-b) Para Geonames
-Se ingresa el código postal y se selecciona una colonia
+**b) Para Geonames**
+
+
+Es una página web para consultar estados localidades y municipios a partir del país, código postal y la colonia que ingrese el usuario. 
+
+[Link a la api](https://data.opendatasoft.com/explore/dataset/geonames-postal-code@public/api/ "Título opcional del enlace")
+
+
+
+Primero se ingresa algún país de las 94 opciones, código postal y se selecciona una colonia
 ![image](https://user-images.githubusercontent.com/57578552/202367753-dd12f20c-cb51-4f6b-992b-5925bbedb679.png)
 
 Se autorrellenan los demás campos en base a lo anterior
